@@ -11,6 +11,8 @@ A time-travel happens in sequential time, however, the nature of a time-travel e
 
 The nature of a myte is unclear, however it is clear that the mapping is not necessarily 1 to 1, that is 1 byte might not be equal to 1 myte. A myte is inherently a probabilistic unit. 100 bytes might represent 1 myte, or might not.
 
+It should also be considered the overflowing essence of meaning. One megabyte could expand into one gigamyte.
+
 
 The question is, if given a certain amount of megabytes of data, which for the source represent another certain amount of megamytes of meaning, if the source were to transfer the megabytes of data, would the target be able to reconstruct the certain amount of megamytes that the source represented.
 
