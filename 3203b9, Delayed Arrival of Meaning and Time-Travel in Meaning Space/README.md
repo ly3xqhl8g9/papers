@@ -4,6 +4,8 @@
 
 Information transfer is sequential. This is a universe-based constraint. Meaning processing is sequential -> One can envision a parallel mode of meaning processing, however, due to the current lack of meaning representation, it is unclear if parallel modes would produce a coherent meaning entity. Information transfer can be considered as data transfer and meaning transfer. Data can be measured in bytes, meaning can be measured in mytes*. Meaning processing happens during and after the data transfer. Solving for meaning a certain data transfer means that the meaning is formed in layers, each one delaying the solvency, and that the final layer performs a final time-travel transforming or not the meaning altogether. The final layer can be the last layer generated after the meaning processing, but since meaning is attention-driven, the final layer is the last layer that receives attention before the meaning is settled.
 
+A time-travel happens in sequential time, however, the nature of a time-travel event is to change altogether the past, as if it was in that state from the initial state. Under this understanding, a time-travel is a paradox-free concept.
+
 
 \* to think more of the Unit of Meaning, for now just a play on the word [b/m]ytes;
 
@@ -25,3 +27,16 @@ Example: consider a car with a driver and a passenger in the front row of seats.
 + the passenger shouts "Stop!" without any other explanation and the driver stops the car because the new data (the "Stop!") re-transforms the original data of the pedestrian into a meaningful stop situation/action.
 + the driver does not stop, but the pedestrian becomes aware of the car and stops walking
 + the driver does not stop, the passenger does not shout, the pedestrian does not stop, and there is an accident
+
+
+To exemplify time-travel in meaning space consider the transfer of the following data
+
+```
+the code is one thousand…
+
+…and one
+```
+
+with a pause after transferring "thousand", due to some extraneous event (network latency and so forth)
+
+In the pause the meaning model is fixed on the number `1,000`; as soon as the "and one" data block is transferred, the meaning model switches to `1,001`, and it performs a time-travel inside the meaning model as if the meaning model had always already meant the number `1,001` and never had `1,000` - this is the mark of a succesful meaning transmission with time-travel in meaning space.
