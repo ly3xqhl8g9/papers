@@ -1,4 +1,4 @@
-# Delayed Arrival of Meaning <br /> and Time-Travel in Meaning Space
+# Delayed Arrival of Meaning and Time-Travel in Meaning Space
 
 
 
