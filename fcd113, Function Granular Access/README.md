@@ -14,7 +14,7 @@ interface FunctionGranularAccess {
     filesystem?: boolean; // allows filesystem access
     exterior?: boolean; // allows access to functions/variables outside of the function's scope
     imports?: boolean; // allows the function to import dynamically
-    dependencies: string[] // specify the dependencies which can be used by the function
+    dependencies?: string[] // specify the dependencies which can be used by the function
 }
 ```
 
