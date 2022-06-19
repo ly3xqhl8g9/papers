@@ -10,8 +10,8 @@ Below, a possible exemplification for `TypeScript`:
 
 ``` typescript
 interface FunctionGranularAccess {
-    network?: boolean; // allows network access
-    filesystem?: boolean; // allows filesystem access
+    network?: boolean | string | string[]; // allows network access for all (boolean), for one (string), for many (string[])
+    filesystem?: boolean | string | string[]; // allows filesystem access for all (boolean), for one (string), for many (string[])
     exterior?: boolean; // allows access to functions/variables outside of the function's scope
     environment?: boolean; // allows access to process environment
     imports?: boolean; // allows the function to import dynamically
