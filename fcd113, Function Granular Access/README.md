@@ -5,6 +5,8 @@ Extended programs and especially programs which are intended for extension and c
 
 A granular access restriction for functions is meant as a way to prevent at write/compile/run-time access to filesystem, network, or even the function's exterior.
 
+Having granular access over the permissions of each function, even if only at transpile-time, would give the developer a greater chance of defending against dependency changes/attacks and also enhances the design intent behind a function definition for non-adversarial, collaborative environments.
+
 Below, a possible exemplification for `TypeScript`:
 
 
