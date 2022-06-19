@@ -45,7 +45,7 @@ function add {
 ```
 
 
-Example of a function which throws an error because of a filesystem call:
+Example of a function which throws an error at any `filesystem` call:
 
 ``` typescript
 import fs from 'fs';
@@ -59,7 +59,7 @@ function throwsError {
 ```
 
 
-Example of a function which uses an object for Function Granular Access
+Example of a function which uses an object for `Function Granular Access`:
 
 ``` typescript
 const noNetworkAccess: FunctionGranularAccess = {
@@ -72,7 +72,7 @@ function noNetwork {noNetworkAccess} () {
 ```
 
 
-Example of a const function
+Example of a `const` function:
 
 ``` typescript
 const noNetwork {
@@ -83,7 +83,7 @@ const noNetwork {
 ```
 
 
-Example of a class with methods restricted by granular access:
+Example of a `class` with methods restricted by granular access:
 
 ``` typescript
 class Example {
